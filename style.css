@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  position: relative;
+}
+#drag {
+    position: absolute;
+    display: inline-block;
+    width: 400px;
+    background-color: #e99400;
+    cursor: all-scroll;
+    text-align: center;
+    margin: auto;
+  }
