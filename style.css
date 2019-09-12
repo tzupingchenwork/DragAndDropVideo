@@ -11,3 +11,15 @@ html, body {
     text-align: center;
     margin: auto;
   }
+
+#drop {
+  width: 50vw;
+  height: 50vh;
+  margin: auto;
+  text-align: center;
+  background-color: red;
+}
+
+/* #dropIF{
+  display: none;
+} */
